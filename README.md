@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WhooperDar
+- 👋 Hi, I’m Kim Darius Panis
 - 👀 I’m interested in programming and math. 
 - 🌱 I’m currently learning data structures in c and web development. 
 - Languages I know are C, C#, Python, HTML, CSS, and SQL. 
