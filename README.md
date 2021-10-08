@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kim Darius Panis
 - 👀 I’m interested in programming and math. 
-- 🌱 I’m currently learning data structures in c, algorithms, and web dev. 
+- 🌱 I’m currently learning data structures in web dev. 
 - 🔧 Languages I know: C, C++, C#, Python, Javascript, HTML5, and CSS3
 - 🥽 Frameworks I know: Bootstrap 4, Express.js
 <!---
